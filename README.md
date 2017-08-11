@@ -1,0 +1,1 @@
+# euler_project_typescript
