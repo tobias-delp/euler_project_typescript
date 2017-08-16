@@ -1,8 +1,3 @@
 {
-  "compilerOptions": {
-  },
-  "include": [
-    "**/*",
-    "../typings/**/*"  // <-- the ".." trick
-  ]
+
 }
